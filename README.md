@@ -7,9 +7,9 @@
 </div>
 
 <div align='center'>
-  <img src="https://img.shields.io/badge/블로그-색상?style=flat-square&logo=아이콘이름&logoColor=white"/>
+  <img src="https://img.shields.io/badge/목차-색상?style=flat-square&logo=아이콘이름&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/텍스트-색상?style=flat-square&logo=아이콘이름&logoColor=white"/>
+  <img src="https://img.shields.io/badge/내용-색상?style=flat-square&logo=아이콘이름&logoColor=white"/>
 
   <a href="https://velog.io/@aej9300"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </div>
