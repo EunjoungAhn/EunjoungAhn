@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=EunJoungAhn%20GitHub&fontSize=70&animation=blinking)
 
 <div align='center'>
-  ![EunJoungAhn GitHub stats](https://github-readme-stats.vercel.app/api?username=EunJoungAhn&show_icons=true)
+  ![EunJoungAhn GitHub stats]
+  <a href="https://github-readme-stats.vercel.app/api?username=EunJoungAhn&show_icons=true"/>
   
   <img src="https://img.shields.io/badge/블로그-색상?style=flat-square&logo=아이콘이름&logoColor=white"/>
 
