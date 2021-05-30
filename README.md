@@ -2,6 +2,9 @@
 <!-- [header] -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=EunJoungAhn%20GitHub&fontSize=70&animation=blinking"/>
 
+  
+ ![사용기술](https://user-images.githubusercontent.com/34737952/120106051-7826dc80-c196-11eb-866f-d590cbf62b1e.png)
+
 <!-- [EunJoungAhn GitHub stats] -->
   <img src="https://github-readme-stats.vercel.app/api?username=EunJoungAhn&show_icons=true"/>
   
