@@ -3,7 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=EunJoungAhn%20GitHub&fontSize=70&animation=blinking"/>
 
 <!-- [EunJoungAhn GitHub stats] -->
-  <img src="https://github-readme-stats.vercel.app/api?username=EunJoungAhn&show_icons=true"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=EunJoungAhn&show_icons=true"/>
+  
 </div>
 
 <div align='center'>
@@ -14,6 +15,7 @@
   <a href="https://velog.io/@aej9300"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </div>
 
+<!--
 ### Hi there 👋
 
 
@@ -29,3 +31,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
