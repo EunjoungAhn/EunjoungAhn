@@ -1,19 +1,21 @@
 <div align='center'>
 <!-- [header] -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=EunJoungAhn%20GitHub&fontSize=70&animation=blinking"/>
-
-  
- ![사용기술](https://user-images.githubusercontent.com/34737952/120106051-7826dc80-c196-11eb-866f-d590cbf62b1e.png)
-
-<!-- [EunJoungAhn GitHub stats] -->
-  <img src="https://github-readme-stats.vercel.app/api?username=EunJoungAhn&show_icons=true"/>
-  
 </div>
 
 <div align='center'>
-  <img src="https://img.shields.io/badge/목차-색상?style=flat-square&logo=아이콘이름&logoColor=white"/>
+  <img src="https://img.shields.io/badge/사용기술-색상?style=flat-square&logo=아이콘이름&logoColor=white"/>
+</div>
 
-  <img src="https://img.shields.io/badge/내용-색상?style=flat-square&logo=아이콘이름&logoColor=white"/>
+![사용기술](https://user-images.githubusercontent.com/34737952/120106051-7826dc80-c196-11eb-866f-d590cbf62b1e.png)
+
+<div align='center'>
+  <img src="https://img.shields.io/badge/Git Status-색상?style=flat-square&logo=아이콘이름&logoColor=white"/>
+</div>
+
+<div align='center'>
+  <!-- [EunJoungAhn GitHub stats] -->
+  <img src="https://github-readme-stats.vercel.app/api?username=EunJoungAhn&show_icons=true"/>
 
   <a href="https://velog.io/@aej9300"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </div>
