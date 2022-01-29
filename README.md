@@ -15,7 +15,7 @@
 
  
 <div align='center'>
-  <!-- [EunJoungAhn GitHub stats] -->
+  <!-- [EunJoungAhn GitHub status] -->
   <img src="https://github-readme-stats.vercel.app/api?username=EunJoungAhn&show_icons=true"/>
 
  <!-- <a href="https://velog.io/@aej9300"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a> -->
