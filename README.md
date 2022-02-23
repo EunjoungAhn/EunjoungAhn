@@ -1,7 +1,7 @@
-<div align='center'>
+<!-- <div align='center'>
 <!-- [header] -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=EunJoungAhn%20GitHub&fontSize=70&animation=blinking"/>
-</div>
+<!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=EunJoungAhn%20GitHub&fontSize=70&animation=blinking"/>
+</div> --> 
 
 <!-- <div align='center'>
   <img src="https://img.shields.io/badge/사용기술-색상?style=flat-square&logo=아이콘이름&logoColor=white"/>
