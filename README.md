@@ -13,17 +13,10 @@
   <img src="https://img.shields.io/badge/Git Status-색상?style=flat-square&logo=아이콘이름&logoColor=white"/>
 </div> -->
 
- 
-<!-- <div align='center'> -->
-  <!-- [EunJoungAhn GitHub status] -->
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=EunJoungAhn&show_icons=true"/> -->
-
- <!-- <a href="https://velog.io/@aej9300"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a> -->
-<!-- </div> -->
-
-## Github Stats  
+ ## Github Stats  
+<!-- [EunJoungAhn GitHub status] -->
 <table><tr><td valign="top" width="50%">
-
+  
 <img src="https://github-readme-stats.vercel.app/api?username=EunJoungAhn&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
