@@ -13,9 +13,9 @@
   <img src="https://img.shields.io/badge/Git Status-색상?style=flat-square&logo=아이콘이름&logoColor=white"/>
 </div> -->
 
- ## Github Stats  
+ <!--## Github Stats  
 <!-- [EunJoungAhn GitHub status] -->
-<table><tr><td valign="top" width="50%">
+<!--<table><tr><td valign="top" width="50%">
   
 <img src="https://github-readme-stats.vercel.app/api?username=EunJoungAhn&show_icons=true&count_private=true&hide_border=true&theme=vue-dark" align="left" style="width: 100%" />
 
