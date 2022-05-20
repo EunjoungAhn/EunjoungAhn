@@ -1,4 +1,4 @@
-# 회사 코드와 개인 코드 모두 Git에 담고있는 깃허브 입니다.
+# 1일 1커밋을 노력하고자 하는 깃허브입니다.
 <!-- <div align='center'>
 <!-- [header] -->
 <!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=EunJoungAhn%20GitHub&fontSize=70&animation=blinking"/>
