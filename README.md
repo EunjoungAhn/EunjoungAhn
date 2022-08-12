@@ -1,4 +1,4 @@
-# 공부한 내용을 담아가는 깃허브입니다.
+# Developer's Journey
 <!-- <div align='center'>
 <!-- [header] -->
 <!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=EunJoungAhn%20GitHub&fontSize=70&animation=blinking"/>
