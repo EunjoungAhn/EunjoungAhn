@@ -1,4 +1,3 @@
-# Developer's Journey
 <!-- <div align='center'>
 <!-- [header] -->
 <!-- 
@@ -33,7 +32,6 @@
 <!--
 ### Hi there 👋
 
-
 **EunjoungAhn/EunjoungAhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -50,10 +48,12 @@ Here are some ideas to get you started:
 
 ## 플러터, 앱 개발자의 깃허브 😄
 
-### 🔭 기술 스택
-- 메인(프론트) : `Flutter` <!-- / `BloC` / `Provider` 
-- 메인(백엔드) : `Django` / `Django REST Framework` -->
+### 기술 스택
+- 메인(프론트) : `Flutter`
+<!-- / `BloC` / `Provider` 메인(백엔드) : `Django` / `Django REST Framework` -->
 
-### 🌱 사이드 프로젝트
-- [웹툰 접속 앱 : 네이버 api 사용하여 웹툰 연결](https://github.com/EunjoungAhn/webtoonapi)
+### 사이드 프로젝트
+🌱 [TODO & 메모 작성 알림앱 앱 : 안드로이드 출시](https://play.google.com/store/apps/details?id=com.behive.todo_app)
+
+🌱 [웹툰 접속 앱 : 네이버 api 사용하여 웹툰 연결](https://github.com/EunjoungAhn/webtoonapi)
 
