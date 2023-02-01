@@ -27,9 +27,9 @@
 </td></tr></table>  
 
 -->
-<br/> 
 
 <!--
+
 ### Hi there 👋
 
 **EunjoungAhn/EunjoungAhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,7 +44,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -  Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
 
 ## 플러터, 앱 개발자의 깃허브 😄
 
