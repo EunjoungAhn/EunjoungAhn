@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 플러터, 앱 개발자의 깃허브 😄
+## 꾸준함을 기록하려는 도전 😄
 
 ### 기술 스택
 - 메인(프론트) : `Flutter`
