@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 꾸준함을 기록하려는 도전 😄
+## 조금씩이라도 나아가자! 아자아자! 😄
 
 ### 기술 스택
 - 메인(프론트) : `Flutter`
