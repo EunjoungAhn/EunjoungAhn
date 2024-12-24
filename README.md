@@ -48,11 +48,11 @@ Here are some ideas to get you started:
 -->
 
 
-## 조금씩이라도 나아가자! 아자아자! 😄
+## 다 기록해가는 개복자! 😄
 
 ### 기술 스택
 - 메인(프론트) : `Flutter`
-<!-- / `BloC` / `Provider` 메인(백엔드) : `Django` / `Django REST Framework` -->
+<!-- / `BloC` / `Riverpod` -->
 
 ### 사이드 프로젝트
 🌱 [TODO & 메모 작성 알림앱 앱 : 구글 플레이 스토어](https://play.google.com/store/apps/details?id=com.behive.todo_app)
