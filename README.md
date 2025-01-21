@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <!-- / `BloC` / `Riverpod` -->
 
 ### 사이드 프로젝트
-🌱 [TODO & 메모 작성 알림앱 앱 : 구글 플레이 스토어](https://play.google.com/store/apps/details?id=com.behive.todo_app)
+🌱 [TODO & 메모 작성 알림앱 앱 : 구글 플레이 스토어](https://play.google.com/store/apps/details?id=com.behive.todo_app) <br>
 🌱 [![Netlify Status](https://api.netlify.com/api/v1/badges/9f2f756f-e1fc-48d9-9c07-b7d7433d8aaa/deploy-status)](https://peaceful-lichterman-ad80e8.netlify.app) 스타벅스 홈페이지 따라 만들기 <br>
 🌱 [웹툰 접속 앱 : 네이버 api 사용하여 웹툰 연결](https://github.com/EunjoungAhn/webtoonapi)
 
