@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 ## 다 기록해가는 개복자! 😄
 
-### 기술 스택
+<!-- ### 기술 스택
 - 메인(프론트) : `Flutter`
 <!-- / `BloC` / `Riverpod` -->
 
